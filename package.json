@@ -1,0 +1,13 @@
+{
+  "name": "js-homework",
+  "version": "1.0.0",
+  "description": "การบ้าน JavaScript สำหรับน้องฝึกงาน automation tester",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node check.js",
+    "test:01": "node check.js 01",
+    "test:02": "node check.js 02",
+    "test:03": "node check.js 03",
+    "test:04": "node check.js 04"
+  }
+}
